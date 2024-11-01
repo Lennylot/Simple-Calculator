@@ -12,7 +12,7 @@ void calc_function(){
   
     
     printf("Enter a (Add(A), Subtract(S), Times(T), Divide(D), Quit(Q)) to start the calculator: ");
-    //adding a space before the "%c"to skip any whitespace leftover in the input buffer
+    //adding a space before the "%c" to skip any whitespace leftover in the input buffer
     scanf(" %c", &choose_operation);
     
     //this just exits out of the loop 
