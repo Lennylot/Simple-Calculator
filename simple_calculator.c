@@ -72,7 +72,7 @@ void calc_function(){
 
 
 int main(){
-    printf("Starting calculator");
+    printf("Starting calculator\n");
     calc_function();
     return 0;
 }
